@@ -6,7 +6,19 @@
   "scripts": {
     "dev": "NODE_ENV=development webpack --watch --progress --hide-modules"
   },
-  "author": "Diego Orellana",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dorellango/v-curr.git"
+  },
+  "keywords": [
+    "currency",
+    "vue",
+    "vue-directive"
+  ],
+  "bugs": {
+    "url": "https://github.com/dorellango/v-curr/issues"
+  },
+  "author": "Diego Orellana <dev@dorellango.cl>",
   "license": "MIT",
   "devDependencies": {
     "babel-core": "^6.24.1",
