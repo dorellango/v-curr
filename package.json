@@ -1,0 +1,22 @@
+{
+  "name": "v-curr",
+  "version": "0.1.0",
+  "description": "A simple vuejs directive to format to chilean pesos",
+  "main": "dist/v-curr.js",
+  "scripts": {
+    "dev": "NODE_ENV=development webpack --watch --progress --hide-modules"
+  },
+  "author": "Diego Orellana",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.1.1",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "babel-preset-env": "^1.5.1",
+    "webpack": "^3.11.0"
+  },
+  "dependencies": {
+    "currency.js": "^1.2.1"
+  }
+}
