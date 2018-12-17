@@ -1,7 +1,7 @@
 {
   "name": "v-curr",
   "version": "0.1.0",
-  "description": "Simple vue directive that works as wrapper for currency.js",
+  "description": "Simple vue directive that works as a wrapper for currency.js",
   "main": "dist/v-curr.js",
   "scripts": {
     "dev": "NODE_ENV=development webpack --watch --progress --hide-modules"
