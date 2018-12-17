@@ -1,6 +1,6 @@
 {
   "name": "v-curr",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Simple vue directive that works as a wrapper for currency.js",
   "main": "dist/v-curr.js",
   "scripts": {
