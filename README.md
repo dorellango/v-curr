@@ -1,5 +1,5 @@
 # v-curr
-Simple vue directive that works as wrapper for currency.js
+Simple vue directive that works as a wrapper for currency.js
 
 ## Instalation
 
