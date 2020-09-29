@@ -20,7 +20,7 @@ Vue.use(VCurr);
 
 `<span v-curr="10000"></span>`
 
-It goint to be render as...
+May be rendered as...
 
 `<span>$10.000</span>`
 
